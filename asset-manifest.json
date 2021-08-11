@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://robotdigital.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://robotdigital.github.io/task-management-frontend/static/js/main.ad7ba277.chunk.js",
-    "main.js.map": "https://robotdigital.github.io/task-management-frontend/static/js/main.ad7ba277.chunk.js.map",
-    "runtime~main.js": "https://robotdigital.github.io/task-management-frontend/static/js/runtime~main.5418555c.js",
-    "runtime~main.js.map": "https://robotdigital.github.io/task-management-frontend/static/js/runtime~main.5418555c.js.map",
-    "static/js/2.37e61107.chunk.js": "https://robotdigital.github.io/task-management-frontend/static/js/2.37e61107.chunk.js",
-    "static/js/2.37e61107.chunk.js.map": "https://robotdigital.github.io/task-management-frontend/static/js/2.37e61107.chunk.js.map",
-    "index.html": "https://robotdigital.github.io/task-management-frontend/index.html",
-    "precache-manifest.6b64ae49a9faa44f9b942b62d1152711.js": "https://robotdigital.github.io/task-management-frontend/precache-manifest.6b64ae49a9faa44f9b942b62d1152711.js",
-    "service-worker.js": "https://robotdigital.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://robotdigital.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://robotdigitalid.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://robotdigitalid.github.io/task-management-frontend/static/js/main.add1e67b.chunk.js",
+    "main.js.map": "https://robotdigitalid.github.io/task-management-frontend/static/js/main.add1e67b.chunk.js.map",
+    "runtime~main.js": "https://robotdigitalid.github.io/task-management-frontend/static/js/runtime~main.d5e03629.js",
+    "runtime~main.js.map": "https://robotdigitalid.github.io/task-management-frontend/static/js/runtime~main.d5e03629.js.map",
+    "static/js/2.1068b7ba.chunk.js": "https://robotdigitalid.github.io/task-management-frontend/static/js/2.1068b7ba.chunk.js",
+    "static/js/2.1068b7ba.chunk.js.map": "https://robotdigitalid.github.io/task-management-frontend/static/js/2.1068b7ba.chunk.js.map",
+    "index.html": "https://robotdigitalid.github.io/task-management-frontend/index.html",
+    "precache-manifest.e5e8897f4413b0a11608324b4f22be5d.js": "https://robotdigitalid.github.io/task-management-frontend/precache-manifest.e5e8897f4413b0a11608324b4f22be5d.js",
+    "service-worker.js": "https://robotdigitalid.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://robotdigitalid.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
