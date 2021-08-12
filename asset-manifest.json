@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://robotdigitalid.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://robotdigitalid.github.io/task-management-frontend/static/js/main.add1e67b.chunk.js",
-    "main.js.map": "https://robotdigitalid.github.io/task-management-frontend/static/js/main.add1e67b.chunk.js.map",
-    "runtime~main.js": "https://robotdigitalid.github.io/task-management-frontend/static/js/runtime~main.d5e03629.js",
-    "runtime~main.js.map": "https://robotdigitalid.github.io/task-management-frontend/static/js/runtime~main.d5e03629.js.map",
-    "static/js/2.1068b7ba.chunk.js": "https://robotdigitalid.github.io/task-management-frontend/static/js/2.1068b7ba.chunk.js",
-    "static/js/2.1068b7ba.chunk.js.map": "https://robotdigitalid.github.io/task-management-frontend/static/js/2.1068b7ba.chunk.js.map",
-    "index.html": "https://robotdigitalid.github.io/task-management-frontend/index.html",
-    "precache-manifest.e5e8897f4413b0a11608324b4f22be5d.js": "https://robotdigitalid.github.io/task-management-frontend/precache-manifest.e5e8897f4413b0a11608324b4f22be5d.js",
-    "service-worker.js": "https://robotdigitalid.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://robotdigitalid.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://todo.buatan.xyz/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://todo.buatan.xyz/static/js/main.b9421792.chunk.js",
+    "main.js.map": "https://todo.buatan.xyz/static/js/main.b9421792.chunk.js.map",
+    "runtime~main.js": "https://todo.buatan.xyz/static/js/runtime~main.c3e5abae.js",
+    "runtime~main.js.map": "https://todo.buatan.xyz/static/js/runtime~main.c3e5abae.js.map",
+    "static/js/2.df15c73f.chunk.js": "https://todo.buatan.xyz/static/js/2.df15c73f.chunk.js",
+    "static/js/2.df15c73f.chunk.js.map": "https://todo.buatan.xyz/static/js/2.df15c73f.chunk.js.map",
+    "index.html": "https://todo.buatan.xyz/index.html",
+    "precache-manifest.8747cbe9b76ed4c591f928a220b3cb4e.js": "https://todo.buatan.xyz/precache-manifest.8747cbe9b76ed4c591f928a220b3cb4e.js",
+    "service-worker.js": "https://todo.buatan.xyz/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://todo.buatan.xyz/static/css/main.5ac26d30.chunk.css.map"
   }
 }
